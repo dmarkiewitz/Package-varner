@@ -1,0 +1,740 @@
+Metabolite name	Metabolite description	Formula	Charge			
+val_L[e]	L-Valine extracellular	C5H11NO2	0			
+dag_hs_18_0_18_2[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+val_L[c]	L-Valine cytosol	C5H11NO2	0			
+5hoxindact[c]	5-Hydroxyindoleacetaldehyde cytosol	C10H9NO2	0			
+rnam[c]	N-Ribosylnicotinamide cytosol	C11H15N2O5	1			
+sphings[c]	Sphingosine cytosol	C18H38NO2	1			
+uri[c]	Uridine cytosol	C9H12N2O6	0			
+3mox4hpac[c]	3-Methoxy-4-hydroxyphenylacetaldehyde cytosol	C9H10O3	0			
+uri[e]	Uridine extracellular	C9H12N2O6	0			
+trp_L[c]	L-Tryptophan cytosol	C11H12N2O2	0			
+trp_L[e]	L-Tryptophan extracellular	C11H12N2O2	0			
+pa_hs_16_0_20_4[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+L2aadp[m]	L-2-Aminoadipate mitochondria	C6H10NO4	-1			
+pyr[c]	Pyruvate cytosol	C3H3O3	-1			
+ps_hs_16_0_20_4[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+pyr[e]	Pyruvate extracellular	C3H3O3	-1			
+biliverd[c]	Biliverdin cytosol	C33H32N4O6	-2			
+34hpp[c]	3-(4-Hydroxyphenyl)pyruvate cytosol	C9H7O4	-1			
+pe_hs_18_0_18_2[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+nadh[m]	Nicotinamide adenine dinucleotide - reduced mitochondria	C21H27N7O14P2	-2			
+fald[m]	Formaldehyde mitochondria	CH2O	0			
+na1[c]	Sodium cytosol	Na	1			
+urate[c]	Urate cytosol	C5H4N4O3	0			
+na1[e]	Sodium extracellular	Na	1			
+urate[e]	Urate extracellular	C5H4N4O3	0			
+pe_hs_16_0_18_2[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+fald[c]	Formaldehyde cytosol	CH2O	0			
+L2aadp6sa[m]	L-2-Aminoadipate 6-semialdehyde mitochondria	C6H11NO3	0			
+pchol_hs_18_2_18_2[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+pe_hs_16_0_18_0[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+pail45p_hs_18_0_20_4[c]	"phosphatidylinositol 4,5-bisphosphate (homo sapiens, C18:0, C20:4) cytosol"	C47H80O19P3	-5			
+chol[c]	Choline cytosol	C5H14NO	1			
+pail345p_hs_16_0_18_2[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+pail45p_hs_16_0_16_0[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+mal_L[c]	L-Malate cytosol	C4H4O5	-2			
+mal_L[m]	L-Malate mitochondria	C4H4O5	-2			
+dag_hs_18_0_18_0[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+fad[m]	Flavin adenine dinucleotide oxidized mitochondria	C27H31N9O15P2	-2			
+pail_hs_16_0_20_4[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+cyan[m]	Hydrogen cyanide mitochondria	CHN	0			
+pro_L[m]	L-Proline mitochondria	C5H9NO2	0			
+pro_L[c]	L-Proline cytosol	C5H9NO2	0			
+cyan[e]	Hydrogen cyanide extracellular	CHN	0			
+cyan[c]	Hydrogen cyanide cytosol	CHN	0			
+pro_L[e]	L-Proline extracellular	C5H9NO2	0			
+ile_L[c]	L-Isoleucine cytosol	C6H13NO2	0			
+hxan[x]	Hypoxanthine peroxisome	C5H4N4O	0			
+ile_L[e]	L-Isoleucine extracellular	C6H13NO2	0			
+adn[c]	Adenosine cytosol	C10H13N5O4	0			
+pail345p_hs_18_2_18_2[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+gln_L[e]	L-Glutamine extracellular	C5H10N2O3	0			
+lnlc[e]	linoleic acid (all cis C18:2) n-6 extracellular	C18H31O2	-1			
+glygn2[c]	"glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]}) cytosol"	C66H111O56X	0			
+pail345p_hs_16_0_18_0[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+gln_L[c]	L-Glutamine cytosol	C5H10N2O3	0			
+atp[e]	ATP extracellular	C10H12N5O13P3	-4			
+ump[c]	UMP cytosol	C9H11N2O9P	-2			
+his_L[e]	L-Histidine extracellular	C6H9N3O2	0			
+atp[m]	ATP mitochondria	C10H12N5O13P3	-4			
+hcys_L[c]	L-Homocysteine cytosol	C4H9NO2S	0			
+etfox[m]	Electron transfer flavoprotein oxidized mitochondria	R	0			
+so4[c]	Sulfate cytosol	O4S	-2			
+ibcoa[m]	Isobutyryl-CoA mitochondria	C25H38N7O17P3S	-4			
+so4[e]	Sulfate extracellular	O4S	-2			
+pail34p_hs_18_2_20_4[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+urea[c]	Urea cytosol	CH4N2O	0			
+urea[e]	Urea extracellular	CH4N2O	0			
+glcur[c]	D-Glucuronate cytosol	C6H9O7	-1			
+pail4p_hs_16_0_16_0[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+pa_hs_18_2_18_2[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+4mop[m]	4-Methyl-2-oxopentanoate mitochondria	C6H9O3	-1			
+glcur[r]	D-Glucuronate ER	C6H9O7	-1			
+amet[c]	S-Adenosyl-L-methionine cytosol	C15H23N6O5S	1			
+4mop[c]	4-Methyl-2-oxopentanoate cytosol	C6H9O3	-1			
+sarcs[m]	Sarcosine mitochondria	C3H7NO2	0			
+mlthf[c]	"5,10-Methylenetetrahydrofolate cytosol"	C20H21N7O6	-2			
+bilirub[e]	Bilirubin extracellular	C33H34N4O6	-2			
+12ppd_S[c]	"(S)-Propane-1,2-diol cytosol"	C3H8O2	0			
+bilirub[c]	Bilirubin cytosol	C33H34N4O6	-2			
+gtp[c]	GTP cytosol	C10H12N5O14P3	-4			
+5htrp[c]	5-Hydroxy-L-tryptophan cytosol	C11H12N2O3	0			
+dmgly[c]	"N,N-Dimethylglycine cytosol"	C4H9NO2	0			
+leuktrF4[c]	leukotriene F4 cytosol	C28H42N2O8S	-2			
+gtp[m]	GTP mitochondria	C10H12N5O14P3	-4			
+5moxact[c]	5-Methoxyindoleacetate cytosol	C11H10NO3	-1			
+leuktrF4[e]	leukotriene F4 extracellular	C28H42N2O8S	-2			
+o2[c]	O2 cytosol	O2	0			
+utp[c]	UTP cytosol	C9H11N2O15P3	-4			
+pap[c]	"Adenosine 3',5'-bisphosphate cytosol"	C10H11N5O10P2	-4			
+o2[e]	O2 extracellular	O2	0			
+dag_hs_20_4_20_4[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+3mop[c]	(S)-3-Methyl-2-oxopentanoate cytosol	C6H9O3	-1			
+o2[m]	O2 mitochondria	O2	0			
+o2[r]	O2 ER	O2	0			
+udpgal[c]	UDPgalactose cytosol	C15H22N2O17P2	-2			
+lys_L[m]	L-Lysine mitochondria	C6H15N2O2	1			
+pe_hs_20_4_20_4[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+cdpdag_hs_18_0_20_4[c]	"CDP diacylglycerol (homo sapiens, C18:0, C20:4) cytosol"	C50H83N3O15P2	-2			
+o2[x]	O2 peroxisome	O2	0			
+pail_hs_18_0_18_1[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+pail45p_hs_16_0_18_1[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+mi1p_D[c]	1D-myo-Inositol 1-phosphate cytosol	C6H11O9P	-2			
+cmp[c]	CMP cytosol	C9H12N3O8P	-2			
+adprib[e]	ADPribose extracellular	C15H21N5O14P2	-2			
+pa_hs_16_0_18_1[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+adprib[c]	ADPribose cytosol	C15H21N5O14P2	-2			
+ala_B[c]	beta-Alanine cytosol	C3H7NO2	0			
+ala_B[m]	beta-Alanine mitochondria	C3H7NO2	0			
+ncam[e]	Nicotinamide extracellular	C6H6N2O	0			
+txa2[e]	Thromboxane A2 extracellular	C20H31O5	-1			
+txa2[c]	Thromboxane A2 cytosol	C20H31O5	-1			
+ncam[c]	Nicotinamide cytosol	C6H6N2O	0			
+xtsn[c]	Xanthosine cytosol	C10H12N4O6	0			
+h2o[l]	H2O lysosome	H2O	0			
+pep[c]	Phosphoenolpyruvate cytosol	C3H2O6P	-3			
+pail34p_hs_18_0_18_0[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+L2aadp[c]	L-2-Aminoadipate cytosol	C6H10NO4	-1			
+homoval[c]	Homovanillate cytosol	C9H9O4	-1			
+txa2[r]	Thromboxane A2 ER	C20H31O5	-1			
+35cgmp[e]	"3',5'-Cyclic GMP extracellular"	C10H11N5O7P	-1			
+ind3ac[c]	Indole-3-acetate cytosol	C10H8NO2	-1			
+35cgmp[c]	"3',5'-Cyclic GMP cytosol"	C10H11N5O7P	-1			
+cdpdag_hs_18_1_18_1[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+pail_hs_18_1_18_1[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+asn_L[c]	L-Asparagine cytosol	C4H8N2O3	0			
+pail34p_hs_18_0_18_2[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+asn_L[m]	L-Asparagine mitochondria	C4H8N2O3	0			
+dag_hs_18_0_18_1[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+cbp[m]	Carbamoyl phosphate mitochondria	CH2NO5P	-2			
+h2o[r]	H2O ER	H2O	0			
+o2s[e]	Superoxide anion extracellular	O2	-1			
+pe_hs_18_2_20_4[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+h2o[c]	H2O cytosol	H2O	0			
+arachdcrn[m]	C20:4 carnitine mitochondria	C27H45NO4	0			
+h2o[e]	H2O extracellular	H2O	0			
+5aizc[c]	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate cytosol	C9H11N3O9P	-3			
+h2o2[x]	Hydrogen peroxide peroxisome	H2O2	0			
+pail4p_hs_18_0_18_0[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+h2o[m]	H2O mitochondria	H2O	0			
+56dura[c]	"5,6-dihydrouracil cytosol"	C4H6N2O2	0			
+phaccoa[c]	Phenylacetyl-CoA cytosol	C29H38N7O17P3S	-4			
+h2o2[c]	Hydrogen peroxide cytosol	H2O2	0			
+lald_L[c]	L-Lactaldehyde cytosol	C3H6O2	0			
+camp[c]	cAMP cytosol	C10H11N5O6P	-1			
+pa_hs_18_1_18_1[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+h2o2[e]	Hydrogen peroxide extracellular	H2O2	0			
+h2o[x]	H2O peroxisome	H2O	0			
+h2o2[m]	Hydrogen peroxide mitochondria	H2O2	0			
+ps_hs_18_2_18_2[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+spc_hs[c]	sphingosylphosphorylcholine (homo sapiens) cytosol	C23H50N2O5P	1			
+spc_hs[e]	sphingosylphosphorylcholine (homo sapiens) extracellular	C23H50N2O5P	1			
+pmtcrn[m]	L-Palmitoylcarnitine mitochondria	C23H45NO4	0			
+pail4p_hs_18_1_18_1[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+pmtcrn[c]	L-Palmitoylcarnitine cytosol	C23H45NO4	0			
+pail345p_hs_20_4_20_4[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+nwharg[c]	N-(omega)-Hydroxyarginine cytosol	C6H15N4O3	1			
+cholp[c]	Choline phosphate cytosol	C5H13NO4P	-1			
+s7p[c]	Sedoheptulose 7-phosphate cytosol	C7H13O10P	-2			
+cdpdag_hs_18_2_18_2[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+arachdcoa[m]	C20:4-CoA mitochondria	C41H62N7O17P3S	-4			
+pail4p_hs_18_0_18_2[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+peamn[c]	Phenethylamine cytosol	C8H12N	1			
+pe_hs_16_0_18_1[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+dag_hs_16_0_16_0[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+2pg[c]	D-Glycerate 2-phosphate cytosol	C3H4O7P	-3			
+pchol_hs_16_0_20_4[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+pac[c]	Phenylacetic acid cytosol	C8H7O2	-1			
+malcoa[c]	Malonyl-CoA cytosol	C24H33N7O19P3S	-5			
+inost[e]	myo-Inositol extracellular	C6H12O6	0			
+pe_hs_18_1_18_2[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+inost[c]	myo-Inositol cytosol	C6H12O6	0			
+focytC[m]	Ferrocytochrome C mitochondria	C42H54FeN8O6S2	2			
+ocdcea[c]	octadecenoate (n-C18:1) cytosol	C18H33O2	-1			
+glyc3p[c]	Glycerol 3-phosphate cytosol	C3H7O6P	-2			
+glyc[c]	Glycerol cytosol	C3H8O3	0			
+ura[e]	Uracil extracellular	C4H4N2O2	0			
+10fthf[l]	10-Formyltetrahydrofolate lysosome	C20H21N7O7	-2			
+10fthf[m]	10-Formyltetrahydrofolate mitochondria	C20H21N7O7	-2			
+10fthf5glu[m]	10-formyltetrahydrofolate-[Glu](5) mitochondria	C40H45N11O19	-6			
+10fthf5glu[l]	10-formyltetrahydrofolate-[Glu](5) lysosome	C40H45N11O19	-6			
+ser_L[e]	L-Serine extracellular	C3H7NO3	0			
+10fthf[c]	10-Formyltetrahydrofolate cytosol	C20H21N7O7	-2			
+ser_L[c]	L-Serine cytosol	C3H7NO3	0			
+dopasf[e]	Dopamine 3-O-sulfate extracellular	C8H11NO5S	0			
+lald_D[c]	D-Lactaldehyde cytosol	C3H6O2	0			
+12HPET[c]	"12-Hydroperoxyeicosa-5,8,10,14-tetraenoate cytosol"	C20H31O4	-1			
+dopasf[c]	Dopamine 3-O-sulfate cytosol	C8H11NO5S	0			
+stcrn[m]	stearoylcarnitine mitochondria	C25H49NO4	0			
+pail_hs_18_2_20_4[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+thbpt[c]	Tetrahydrobiopterin cytosol	C9H15N5O3	0			
+prostgh2[c]	Prostaglandin H2 cytosol	C20H31O5	-1			
+mi4p_D[c]	1D-myo-Inositol 4-phosphate cytosol	C6H11O9P	-2			
+for[c]	Formate cytosol	CH1O2	-1			
+ac[c]	Acetate cytosol	C2H3O2	-1			
+pail_hs_20_4_20_4[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+ac[e]	Acetate extracellular	C2H3O2	-1			
+glu_L[e]	L-Glutamate extracellular	C5H8NO4	-1			
+pail34p_hs_18_0_20_4[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+guln[c]	L-Gulonate cytosol	C6H11O7	-1			
+glu_L[m]	L-Glutamate mitochondria	C5H8NO4	-1			
+glu_L[l]	L-Glutamate lysosome	C5H8NO4	-1			
+leuktrD4[c]	Leukotriene D4 cytosol	C25H39N2O6S	-1			
+Lcystin[e]	L-Cystine extracellular	C6H12N2O4S2	0			
+glu_L[r]	L-Glutamate ER	C5H8NO4	-1			
+tcynt[e]	Thiocyanate extracellular	CNS	-1			
+leuktrD4[r]	Leukotriene D4 ER	C25H39N2O6S	-1			
+tcynt[c]	Thiocyanate cytosol	CNS	-1			
+4nph[e]	4-Nitrophenol extracellular	C6H5NO3	0			
+nadp[c]	Nicotinamide adenine dinucleotide phosphate cytosol	C21H25N7O17P3	-3			
+acald[c]	Acetaldehyde cytosol	C2H4O	0			
+nadp[m]	Nicotinamide adenine dinucleotide phosphate mitochondria	C21H25N7O17P3	-3			
+5oxpro[c]	5-Oxoproline cytosol	C5H6NO3	-1			
+cdpea[c]	CDPethanolamine cytosol	C11H19N4O11P2	-1			
+nadp[r]	Nicotinamide adenine dinucleotide phosphate ER	C21H25N7O17P3	-3			
+f1p[c]	D-Fructose 1-phosphate cytosol	C6H11O9P	-2			
+saccrp_L[m]	L-Saccharopine mitochondria	C11H19N2O6	-1			
+ppi[c]	Diphosphate cytosol	HO7P2	-3			
+ps_hs_18_1_20_4[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+xmp[c]	Xanthosine 5'-phosphate cytosol	C10H11N4O9P	-2			
+pail_hs_18_0_18_0[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+lpchol_hs_16_0[c]	"lysophosphatidylcholine (homo sapiens, C16:0) cytosol"	C24H50NO7P	0			
+pail_hs_18_0_18_2[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+tcynt[m]	Thiocyanate mitochondria	CNS	-1			
+dhbpt[c]	"6,7-Dihydrobiopterin cytosol"	C9H13N5O3	0			
+pa_hs_20_4_20_4[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+mag_hs_20_4[c]	monoglycerol 2 (homo sapiens C20:4) cytosol	C23H38O4	0			
+gsn[e]	Guanosine extracellular	C10H13N5O5	0			
+pa_hs_16_0_18_0[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+so3[c]	Sulfite cytosol	O3S	-2			
+f6p[c]	D-Fructose 6-phosphate cytosol	C6H11O9P	-2			
+dxtrn[c]	"phosphorylase-limit dextrin (glycogenin-1,6{4[1,4-Glc], 4[1,4-Glc]}) cytosol"	C48H81O41X	0			
+cdpdag_hs_16_0_16_0[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+coa[c]	Coenzyme A cytosol	C21H32N7O16P3S	-4			
+thf[c]	"5,6,7,8-Tetrahydrofolate cytosol"	C19H21N7O6	-2			
+coa[m]	Coenzyme A mitochondria	C21H32N7O16P3S	-4			
+nadh[c]	Nicotinamide adenine dinucleotide - reduced cytosol	C21H27N7O14P2	-2			
+pram[c]	5-Phospho-beta-D-ribosylamine cytosol	C5H11NO7P	-1			
+pe_hs_16_0_16_0[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+cdpdag_hs_18_1_18_2[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+guln[r]	L-Gulonate ER	C6H11O7	-1			
+nmn[c]	NMN cytosol	C11H14N2O8P	-1			
+pail34p_hs_16_0_20_4[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+ins[e]	Inosine extracellular	C10H12N4O5	0			
+nh4[m]	Ammonium mitochondria	H4N	1			
+ins[c]	Inosine cytosol	C10H12N4O5	0			
+pail34p_hs_18_0_18_1[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+nh4[e]	Ammonium extracellular	H4N	1			
+nh4[c]	Ammonium cytosol	H4N	1			
+dopa[c]	Dopamine cytosol	C8H12NO2	1			
+pchol_hs_18_1_18_2[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+2dr5p[c]	2-Deoxy-D-ribose 5-phosphate cytosol	C5H9O7P	-2			
+alpha_hs_20_4[c]	lysophosphatidic acid cytosol	C3H6O5PFULLRCO2	0			
+ivcoa[m]	Isovaleryl-CoA mitochondria	C26H40N7O17P3S	-4			
+pail45p_hs_20_4_20_4[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+xylt[c]	Xylitol cytosol	C5H12O5	0			
+ps_hs_16_0_16_0[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+asp_L[m]	L-Aspartate mitochondria	C4H6NO4	-1			
+2mb2coa[m]	trans-2-Methylbut-2-enoyl-CoA mitochondria	C26H38N7O17P3S	-4			
+hdca[e]	Hexadecanoate (n-C16:0) extracellular	C16H31O2	-1			
+hdca[c]	Hexadecanoate (n-C16:0) cytosol	C16H31O2	-1			
+gudac[c]	Guanidinoacetate cytosol	C3H7N3O2	0			
+dopa[e]	Dopamine extracellular	C8H12NO2	1			
+gdp[e]	GDP extracellular	C10H12N5O11P2	-3			
+gdp[c]	GDP cytosol	C10H12N5O11P2	-3			
+pail34p_hs_18_2_18_2[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+10fthf6glu[l]	10-formyltetrahydrofolate-[Glu](6) lysosome	C45H51N12O22	-7			
+10fthf6glu[m]	10-formyltetrahydrofolate-[Glu](6) mitochondria	C45H51N12O22	-7			
+3hmp[m]	3-Hydroxy-2-methylpropanoate mitochondria	C4H7O3	-1			
+10fthf6glu[c]	10-formyltetrahydrofolate-[Glu](6) cytosol	C45H51N12O22	-7			
+gdp[m]	GDP mitochondria	C10H12N5O11P2	-3			
+pail4p_hs_18_0_18_1[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+nad[e]	Nicotinamide adenine dinucleotide extracellular	C21H26N7O14P2	-1			
+no[e]	Nitric oxide extracellular	NO	0			
+5aop[c]	5-Amino-4-oxopentanoate cytosol	C5H9NO3	0			
+nad[c]	Nicotinamide adenine dinucleotide cytosol	C21H26N7O14P2	-1			
+no[c]	Nitric oxide cytosol	NO	0			
+oaa[m]	Oxaloacetate mitochondria	C4H2O5	-2			
+5aop[m]	5-Amino-4-oxopentanoate mitochondria	C5H9NO3	0			
+fgam[c]	N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide cytosol	C8H13N2O9P	-2			
+oaa[c]	Oxaloacetate cytosol	C4H2O5	-2			
+pe_hs_18_0_20_4[c]	"phosphatidylethanolamine (homo sapiens, C18:0, C20:4) cytosol"	C43H78NO8P	0			
+ddcacoa[c]	Dodecanoyl-CoA (n-C12:0CoA) cytosol	C33H54N7O17P3S	-4			
+dad_2[c]	Deoxyadenosine cytosol	C10H13N5O3	0			
+tyr_L[e]	L-Tyrosine extracellular	C9H11NO3	0			
+tyr_L[c]	L-Tyrosine cytosol	C9H11NO3	0			
+nad[m]	Nicotinamide adenine dinucleotide mitochondria	C21H26N7O14P2	-1			
+stcoa[m]	Stearoyl-CoA (n-C18:0CoA) mitochondria	C39H66N7O17P3S	-4			
+xu5p_D[c]	D-Xylulose 5-phosphate cytosol	C5H9O8P	-2			
+pail_hs_18_2_18_2[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+cdpdag_hs_18_1_20_4[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+4fumacac[c]	4-Fumarylacetoacetate cytosol	C8H6O6	-2			
+glyb[e]	Glycine betaine extracellular	C5H11NO2	0			
+ocdcea[e]	octadecenoate (n-C18:1) extracellular	C18H33O2	-1			
+glyb[c]	Glycine betaine cytosol	C5H11NO2	0			
+pail45p_hs_18_2_18_2[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+mercppyr[c]	Mercaptopyruvate cytosol	C3H3O3S	-1			
+ura[c]	Uracil cytosol	C4H4N2O2	0			
+pail345p_hs_18_0_20_4[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+hmgcoa[m]	Hydroxymethylglutaryl-CoA mitochondria	C27H39N7O20P3S	-5			
+mlthf[m]	"5,10-Methylenetetrahydrofolate mitochondria"	C20H21N7O6	-2			
+dag_hs_18_1_18_1[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+b2coa[m]	Crotonoyl-CoA mitochondria	C25H36N7O17P3S	-4			
+fe2[m]	Fe2+ mitochondria	Fe	2			
+fe2[c]	Fe2+ cytosol	Fe	2			
+alpha_hs_18_1[c]	lysophosphatidic acid cytosol	C3H6O5PFULLRCO2	0			
+prostgg2[c]	prostaglandin G2 cytosol	C20H32O6	0			
+fe2[e]	Fe2+ extracellular	Fe	2			
+ca2[e]	Calcium extracellular	Ca	2			
+pa_hs_18_1_20_4[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+lac_L[e]	L-Lactate extracellular	C3H5O3	-1			
+lac_L[c]	L-Lactate cytosol	C3H5O3	-1			
+pe_hs_18_2_18_2[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+lnlc[c]	linoleic acid (all cis C18:2) n-6 cytosol	C18H31O2	-1			
+pail_hs_18_0_20_4[c]	"phosphatidylinositol (homo sapiens, C18:0, C20:4) cytosol"	C47H82O13P	-1			
+3mob[m]	3-Methyl-2-oxobutanoate mitochondria	C5H7O3	-1			
+pail345p_hs_16_0_16_0[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+nrpphrsf[c]	Sulfate derivative of norepinephrine cytosol	C8H11NO6S	0			
+pail45p_hs_18_1_20_4[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+3mob[c]	3-Methyl-2-oxobutanoate cytosol	C5H7O3	-1			
+nrpphr[c]	Norepinephrine cytosol	C8H12NO3	1			
+pail4p_hs_18_0_20_4[c]	"1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C18:0, C20:4) cytosol"	C47H81O16P2	-3			
+gal1p[c]	alpha-D-Galactose 1-phosphate cytosol	C6H11O9P	-2			
+cys_L[c]	L-Cysteine cytosol	C3H7NO2S	0			
+cys_L[e]	L-Cysteine extracellular	C3H7NO2S	0			
+co[c]	Carbon monoxide cytosol	CO	0			
+creat[e]	Creatine extracellular	C4H9N3O2	0			
+adrnl[e]	Adrenaline extracellular	C9H14NO3	1			
+1pyr5c[m]	1-Pyrroline-5-carboxylate mitochondria	C5H6NO2	-1			
+co[e]	Carbon monoxide extracellular	CO	0			
+Sfglutth[c]	S-Formylglutathione cytosol	C11H16N3O7S	-1			
+thbpt4acam[c]	Tetrahydrobiopterin-4a-carbinolamine cytosol	C9H15N5O4	0			
+fru[e]	D-Fructose extracellular	C6H12O6	0			
+ppbng[c]	Porphobilinogen cytosol	C10H13N2O4	-1			
+acac[m]	Acetoacetate mitochondria	C4H5O3	-1			
+lac_D[c]	D-Lactate cytosol	C3H5O3	-1			
+atp[c]	ATP cytosol	C10H12N5O13P3	-4			
+fru[c]	D-Fructose cytosol	C6H12O6	0			
+cdp[c]	CDP cytosol	C9H12N3O11P2	-3			
+methf[m]	"5,10-Methenyltetrahydrofolate mitochondria"	C20H20N7O6	-1			
+pail345p_hs_18_1_20_4[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+cdpdag_hs_16_0_18_2[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+cdpdag_hs_16_0_18_0[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+pa_hs_18_1_18_2[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+dag_hs_16_0_20_4[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+xan[x]	Xanthine peroxisome	C5H4N4O2	0			
+arachdcoa[c]	C20:4-CoA cytosol	C41H62N7O17P3S	-4			
+pail_hs_16_0_18_0[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+13dpg[c]	3-Phospho-D-glyceroyl phosphate cytosol	C3H4O10P2	-4			
+3mgcoa[m]	3-Methylglutaconyl-CoA mitochondria	C27H37N7O19P3S	-5			
+hxan[e]	Hypoxanthine extracellular	C5H4N4O	0			
+hxan[c]	Hypoxanthine cytosol	C5H4N4O	0			
+pmtcoa[c]	Palmitoyl-CoA (n-C16:0CoA) cytosol	C37H62N7O17P3S	-4			
+paf_hs[c]	1-alkyl 2-acteylglycerol 3-phosphocholine (homo sapiens) cytosol	C11H23O4NPFULLRCO2	0			
+pail345p_hs_18_0_18_0[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+chol[e]	Choline extracellular	C5H14NO	1			
+paf_hs[e]	1-alkyl 2-acteylglycerol 3-phosphocholine (homo sapiens) extracellular	C11H23O4NPFULLRCO2	0			
+4hphac[c]	4-Hydroxyphenylacetate cytosol	C8H7O3	-1			
+4hphac[e]	4-Hydroxyphenylacetate extracellular	C8H7O3	-1			
+pmtcoa[m]	Palmitoyl-CoA (n-C16:0CoA) mitochondria	C37H62N7O17P3S	-4			
+mag_hs_16_0[c]	monoacylglycerol 2 (homo sapiens) cytosol	C3H7O2FULLR2CO2	0			
+lys_L[e]	L-Lysine extracellular	C6H15N2O2	1			
+lys_L[c]	L-Lysine cytosol	C6H15N2O2	1			
+pail34p_hs_16_0_18_1[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+drib[c]	Deoxyribose cytosol	C5H10O4	0			
+hmbil[c]	Hydroxymethylbilane cytosol	C40H38N4O17	-8			
+Tyr_ggn[c]	Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis) cytosol	XOH	0			
+cgly[e]	Cys-Gly extracellular	C5H10N2O3S	0			
+3hmbcoa[m]	(S)-3-Hydroxy-2-methylbutyryl-CoA mitochondria	C26H40N7O18P3S	-4			
+thymd[e]	Thymidine extracellular	C10H14N2O5	0			
+pchol_hs_18_1_18_1[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+thymd[c]	Thymidine cytosol	C10H14N2O5	0			
+2dr1p[c]	2-Deoxy-D-ribose 1-phosphate cytosol	C5H9O7P	-2			
+ps_hs_18_0_18_2[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+glucys[c]	gamma-L-Glutamyl-L-cysteine cytosol	C8H13N2O5S	-1			
+4nphsf[e]	4-Nitrophenyl sulfate extracellular	C6H4NO6S	-1			
+pi[r]	Phosphate ER	HO4P	-2			
+4nphsf[c]	4-Nitrophenyl sulfate cytosol	C6H4NO6S	-1			
+34dhpha[c]	"3,4-Dihydroxyphenylacetate cytosol"	C8H7O4	-1			
+udp[c]	UDP cytosol	C9H11N2O12P2	-3			
+pi[m]	Phosphate mitochondria	HO4P	-2			
+pi[c]	Phosphate cytosol	HO4P	-2			
+pi[e]	Phosphate extracellular	HO4P	-2			
+prpp[c]	5-Phospho-alpha-D-ribose 1-diphosphate cytosol	C5H8O14P3	-5			
+pheacgln[e]	alpha-N-Phenylacetyl-L-glutamine extracellular	C13H16N2O4	0			
+pail45p_hs_18_0_18_1[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+paps[c]	3'-Phosphoadenylyl sulfate cytosol	C10H11N5O13P2S	-4			
+leuktrA4[r]	Leukotriene A4 ER	C20H29O3	-1			
+pheacgln[c]	alpha-N-Phenylacetyl-L-glutamine cytosol	C13H16N2O4	0			
+cl[c]	Chloride cytosol	Cl	-1			
+fprica[c]	5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide cytosol	C10H13N4O9P	-2			
+tym[c]	Tyramine cytosol	C8H12NO	1			
+pail345p_hs_18_1_18_1[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+e4p[c]	D-Erythrose 4-phosphate cytosol	C4H7O7P	-2			
+pail34p_hs_18_1_18_1[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+leuktrA4[c]	Leukotriene A4 cytosol	C20H29O3	-1			
+ps_hs_18_1_18_2[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+ctp[c]	CTP cytosol	C9H12N3O14P3	-4			
+3hbcoa[m]	(S)-3-Hydroxybutanoyl-CoA mitochondria	C25H38N7O18P3S	-4			
+pail_hs_16_0_18_2[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+pppg9[c]	Protoporphyrinogen IX cytosol	C34H38N4O4	-2			
+estrone[c]	Estrone cytosol	C18H22O2	0			
+gal[c]	D-Galactose cytosol	C6H12O6	0			
+gal[e]	D-Galactose extracellular	C6H12O6	0			
+glu5sa[m]	L-Glutamate 5-semialdehyde mitochondria	C5H9NO3	0			
+accoa[c]	Acetyl-CoA cytosol	C23H34N7O17P3S	-4			
+meoh[c]	Methanol cytosol	CH4O1	0			
+accoa[m]	Acetyl-CoA mitochondria	C23H34N7O17P3S	-4			
+gar[c]	N1-(5-Phospho-D-ribosyl)glycinamide cytosol	C7H14N2O8P	-1			
+phe_L[e]	L-Phenylalanine extracellular	C9H11NO2	0			
+phe_L[c]	L-Phenylalanine cytosol	C9H11NO2	0			
+glc_D[c]	D-Glucose cytosol	C6H12O6	0			
+hgentis[c]	Homogentisate cytosol	C8H7O4	-1			
+thf[m]	"5,6,7,8-Tetrahydrofolate mitochondria"	C19H21N7O6	-2			
+glc_D[e]	D-Glucose extracellular	C6H12O6	0			
+pchol_hs_16_0_18_0[c]	"phosphatidylcholine (homo sapiens, C16:0, C18:0) cytosol"	C42H84NO8P	0			
+3moxtyr[c]	3-Methoxytyramine cytosol	C9H14NO2	1			
+cytd[c]	Cytidine cytosol	C9H13N3O5	0			
+glc_D[r]	D-Glucose ER	C6H12O6	0			
+23dpg[c]	"2,3-Disphospho-D-glycerate cytosol"	C3H3O10P2	-5			
+cytd[e]	Cytidine extracellular	C9H13N3O5	0			
+pa_hs_16_0_16_0[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+34dhphe[c]	"3,4-Dihydroxy-L-phenylalanine cytosol"	C9H11NO4	0			
+tdcoa[c]	Tetradecanoyl-CoA (n-C14:0CoA) cytosol	C35H58N7O17P3S	-4			
+ala_L[e]	L-Alanine extracellular	C3H7NO2	0			
+o2s[x]	Superoxide anion peroxisome	O2	-1			
+hco3[m]	Bicarbonate mitochondria	CHO3	-1			
+hco3[c]	Bicarbonate cytosol	CHO3	-1			
+12harachd[c]	12 hydroxy arachidonic acid cytosol	C20H31O3	-1			
+gua[c]	Guanine cytosol	C5H5N5O	0			
+pail4p_hs_18_1_18_2[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+hco3[e]	Bicarbonate extracellular	CHO3	-1			
+pail4p_hs_16_0_18_1[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+pail45p_hs_18_2_20_4[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+o2s[m]	Superoxide anion mitochondria	O2	-1			
+o2s[c]	Superoxide anion cytosol	O2	-1			
+ps_hs_18_0_20_4[c]	"phosphatidylserine (homo sapiens, C18:0, C20:4) cytosol"	C44H77NO10P	-1			
+pail45p_hs_16_0_18_2[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+3hibutcoa[m]	(S)-3-Hydroxyisobutyryl-CoA mitochondria	C25H38N7O18P3S	-4			
+g6p[r]	D-Glucose 6-phosphate ER	C6H11O9P	-2			
+15HPET[c]	15-Hydroperoxyeicosatetraenoic acid cytosol	C20H31O4	-1			
+leu_L[e]	L-Leucine extracellular	C6H13NO2	0			
+leu_L[c]	L-Leucine cytosol	C6H13NO2	0			
+stcrn[c]	stearoylcarnitine cytosol	C25H49NO4	0			
+34dhpac[c]	"3,4-Dihydroxyphenylacetaldehyde cytosol"	C8H8O3	0			
+pchol_hs_18_0_20_4[c]	"phosphatidylcholine (homo sapiens, C18:0, C20:4) cytosol"	C46H84NO8P	0			
+ala_L[c]	L-Alanine cytosol	C3H7NO2	0			
+6pgl[c]	"6-phospho-D-glucono-1,5-lactone cytosol"	C6H9O9P	-2			
+mag_hs_18_1[c]	monoacylglycerol 2(homo sapiens C18:1) cytosol	C21H40O4	0			
+pail4p_hs_18_2_20_4[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+mmcoa_R[m]	(R)-Methylmalonyl-CoA mitochondria	C25H35N7O19P3S	-5			
+pail345p_hs_18_0_18_2[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+pail45p_hs_16_0_20_4[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+pail45p_hs_18_0_18_2[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+alpha_hs_18_0[c]	lysophosphatidic acid cytosol	C3H6O5PFULLRCO2	0			
+gly[m]	Glycine mitochondria	C2H5NO2	0			
+citr_L[m]	L-Citrulline mitochondria	C6H13N3O3	0			
+citr_L[c]	L-Citrulline cytosol	C6H13N3O3	0			
+gluala[e]	5-L-Glutamyl-L-alanine extracellular	C8H13N2O5	-1			
+gly[e]	Glycine extracellular	C2H5NO2	0			
+fadh2[m]	Flavin adenine dinucleotide reduced mitochondria	C27H33N9O15P2	-2			
+gly[c]	Glycine cytosol	C2H5NO2	0			
+txb2[c]	Thromboxane B2 cytosol	C20H34O6	0			
+pail345p_hs_16_0_20_4[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+ps_hs_18_0_18_0[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+dhap[c]	Dihydroxyacetone phosphate cytosol	C3H5O6P	-2			
+pchol_hs_18_0_18_0[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+succoa[m]	Succinyl-CoA mitochondria	C25H35N7O19P3S	-5			
+r1p[c]	alpha-D-Ribose 1-phosphate cytosol	C5H9O8P	-2			
+dag_hs_18_1_18_2[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+pa_hs_18_2_20_4[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+sucsal[m]	Succinic semialdehyde mitochondria	C4H5O3	-1			
+uppg3[c]	Uroporphyrinogen III cytosol	C40H36N4O16	-8			
+6pgc[c]	6-Phospho-D-gluconate cytosol	C6H10O10P	-3			
+oh1[c]	hydroxide ion cytosol	HO	-1			
+adn[e]	Adenosine extracellular	C10H13N5O4	0			
+ascb_L[c]	L-Ascorbate cytosol	C6H8O6	0			
+h2co3[c]	carbonic acid cytosol	H2CO3	0			
+oh1[e]	hydroxide ion extracellular	HO	-1			
+cdpdag_hs_16_0_20_4[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+tymsf[c]	Tyramine O-sulfate cytosol	C8H11NO4S	0			
+cdpdag_hs_16_0_18_1[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+acetol[c]	Acetol cytosol	C3H6O2	0			
+tymsf[e]	Tyramine O-sulfate extracellular	C8H11NO4S	0			
+pail345p_hs_18_2_20_4[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+pail45p_hs_18_1_18_2[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+h[r]	H+ ER	H	1			
+h[x]	H+ peroxisome	H	1			
+h[e]	H+ extracellular	H	1			
+h[c]	H+ cytosol	H	1			
+h[m]	H+ mitochondria	H	1			
+pail34p_hs_16_0_18_2[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+pail34p_hs_20_4_20_4[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+pail34p_hs_16_0_18_0[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+glu_L[c]	L-Glutamate cytosol	C5H8NO4	-1			
+din[c]	Deoxyinosine cytosol	C10H12N4O4	0			
+pail345p_hs_18_0_18_1[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+cala[c]	N-Carbamoyl-beta-alanine cytosol	C4H7N2O3	-1			
+adp[e]	ADP extracellular	C10H12N5O10P2	-3			
+gthox[m]	Oxidized glutathione mitochondria	C20H30N6O12S2	-2			
+etfrd[m]	Electron transfer flavoprotein reduced mitochondria	RH2	0			
+adp[c]	ADP cytosol	C10H12N5O10P2	-3			
+25aics[c]	(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate cytosol	C13H15N4O12P	-4			
+adp[m]	ADP mitochondria	C10H12N5O10P2	-3			
+gthox[e]	Oxidized glutathione extracellular	C20H30N6O12S2	-2			
+amp[c]	AMP cytosol	C10H12N5O7P	-2			
+dag_hs_16_0_18_0[c]	"diacylglycerol (homo sapiens, C16:0, C18:0) cytosol"	C37H72O5	0			
+dcacoa[c]	Decanoyl-CoA (n-C10:0CoA) cytosol	C31H50N7O17P3S	-4			
+gthox[c]	Oxidized glutathione cytosol	C20H30N6O12S2	-2			
+acrn[c]	O-Acetylcarnitine cytosol	C9H17NO4	0			
+ade[c]	Adenine cytosol	C5H5N5	0			
+2mp2coa[m]	2-Methylprop-2-enoyl-CoA mitochondria	C25H36N7O17P3S	-4			
+pail4p_hs_20_4_20_4[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+cdpdag_hs_18_2_20_4[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+dag_hs_16_0_18_2[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+nrpphrsf[e]	Sulfate derivative of norepinephrine extracellular	C8H11NO6S	0			
+hista[e]	Histamine extracellular	C5H10N3	1			
+hista[c]	Histamine cytosol	C5H10N3	1			
+pheme[m]	Protoheme mitochondria	C34H30FeN4O4	-2			
+cl[e]	Chloride extracellular	Cl	-1			
+pheme[e]	Protoheme extracellular	C34H30FeN4O4	-2			
+pheme[c]	Protoheme cytosol	C34H30FeN4O4	-2			
+lpchol_hs_18_0[c]	"lysophosphatidylcholine (homo sapiens, C18:0) cytosol"	C26H54NO7P	0			
+pail_hs_18_1_20_4[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+ps_hs_18_0_18_1[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+cit[e]	Citrate extracellular	C6H5O7	-3			
+lpchol_hs_18_2[c]	lysophosphatidylcholine (homo sapiens) cytosol	C8H19NO5PFULLRCO2	0			
+pail4p_hs_18_2_18_2[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+cdpchol[c]	CDPcholine cytosol	C14H25N4O11P2	-1			
+lpchol_hs_20_4[c]	lysophosphatidylcholine (homo sapiens) cytosol	C8H19NO5PFULLRCO2	0			
+srtn[c]	Serotonin cytosol	C10H13N2O	1			
+ps_hs_18_1_18_1[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+fum[c]	Fumarate cytosol	C4H2O4	-2			
+3dhguln[c]	3-Dehydro-L-gulonate cytosol	C6H9O7	-1			
+srtn[e]	Serotonin extracellular	C10H13N2O	1			
+2mop[m]	2-Methyl-3-oxopropanoate mitochondria	C4H5O3	-1			
+Lcystin[c]	L-Cystine cytosol	C6H12N2O4S2	0			
+fum[m]	Fumarate mitochondria	C4H2O4	-2			
+arachd[r]	arachidonic acid ER	C20H31O2	-1			
+stcoa[c]	Stearoyl-CoA (n-C18:0CoA) cytosol	C39H66N7O17P3S	-4			
+ps_hs_20_4_20_4[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+glyald[c]	D-Glyceraldehyde cytosol	C3H6O3	0			
+arachd[e]	arachidonic acid extracellular	C20H31O2	-1			
+r5p[c]	alpha-D-Ribose 5-phosphate cytosol	C5H9O8P	-2			
+adrnl[c]	Adrenaline cytosol	C9H14NO3	1			
+lgt_S[c]	(R)-S-Lactoylglutathione cytosol	C13H20N3O8S	-1			
+arachd[c]	arachidonic acid cytosol	C20H31O2	-1			
+estrones[c]	Estrone 3-sulfate cytosol	C18H21O5S	-1			
+pail_hs_16_0_18_1[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+ggn[c]	"primed glycogenin (glycogenin-8[1,4-Glc]) cytosol"	C48H81O41X	0			
+icit[m]	Isocitrate mitochondria	C6H5O7	-3			
+etha[c]	Ethanolamine cytosol	C2H8NO	1			
+icit[c]	Isocitrate cytosol	C6H5O7	-3			
+occoa[m]	Octanoyl-CoA (n-C8:0CoA) mitochondria	C29H46N7O17P3S	-4			
+pchol_hs_16_0_18_2[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+mthgxl[c]	Methylglyoxal cytosol	C3H4O2	0			
+g6p[c]	D-Glucose 6-phosphate cytosol	C6H11O9P	-2			
+occoa[c]	Octanoyl-CoA (n-C8:0CoA) cytosol	C29H46N7O17P3S	-4			
+pail345p_hs_18_1_18_2[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+q10[m]	Ubiquinone-10 mitochondria	C59H90O4	0			
+dmgly[m]	"N,N-Dimethylglycine mitochondria"	C4H9NO2	0			
+lnlccrn[m]	Linoleyl carnitine mitochondria	C25H45NO4	0			
+4abut[c]	4-Aminobutanoate cytosol	C4H9NO2	0			
+4abut[m]	4-Aminobutanoate mitochondria	C4H9NO2	0			
+lnlccrn[c]	Linoleyl carnitine cytosol	C25H45NO4	0			
+ade[e]	Adenine extracellular	C5H5N5	0			
+pchol_hs_18_0_18_1[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+12ppd_R[c]	"(R)-Propane-1,2-diol cytosol"	C3H8O2	0			
+pa_hs_18_0_18_0[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+pail4p_hs_16_0_18_2[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+pail45p_hs_18_0_18_0[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+pail45p_hs_18_1_18_1[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+4mlacac[c]	4-Maleylacetoacetate cytosol	C8H6O6	-2			
+pa_hs_18_0_18_2[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+odecoa[c]	Octadecenoyl-CoA (n-C18:1CoA) cytosol	C39H64N7O17P3S	-4			
+g1p[c]	D-Glucose 1-phosphate cytosol	C6H11O9P	-2			
+leuktrE4[c]	leukotriene E4 cytosol	C23H36NO5S	-1			
+ppp9[m]	Protoporphyrin mitochondria	C34H32N4O4	-2			
+odecoa[m]	Octadecenoyl-CoA (n-C18:1CoA) mitochondria	C39H64N7O17P3S	-4			
+ps_hs_16_0_18_0[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+pail4p_hs_18_1_20_4[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+5HPET[c]	"5-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoate cytosol"	C20H31O4	-1			
+ps_hs_16_0_18_2[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+pail4p_hs_16_0_18_0[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+udpg[c]	UDPglucose cytosol	C15H22N2O17P2	-2			
+cdpdag_hs_18_0_18_1[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+pchol_hs_18_2_20_4[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+met_L[c]	L-Methionine cytosol	C5H11NO2S	0			
+met_L[e]	L-Methionine extracellular	C5H11NO2S	0			
+gthrd[r]	Reduced glutathione ER	C10H16N3O6S	-1			
+ppcoa[m]	Propanoyl-CoA mitochondria	C24H36N7O17P3S	-4			
+gthrd[m]	Reduced glutathione mitochondria	C10H16N3O6S	-1			
+pail34p_hs_18_1_20_4[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+pyr[m]	Pyruvate mitochondria	C3H3O3	-1			
+co2[m]	CO2 mitochondria	CO2	0			
+ocdca[c]	octadecanoate (n-C18:0) cytosol	C18H35O2	-1			
+gthrd[e]	Reduced glutathione extracellular	C10H16N3O6S	-1			
+co2[c]	CO2 cytosol	CO2	0			
+gthrd[c]	Reduced glutathione cytosol	C10H16N3O6S	-1			
+co2[e]	CO2 extracellular	CO2	0			
+mmcoa_S[m]	(S)-Methylmalonyl-CoA mitochondria	C25H35N7O19P3S	-5			
+mi145p[c]	"1D-myo-Inositol 1,4,5-trisphosphate cytosol"	C6H9O15P3	-6			
+dhdascb[c]	Dehydroascorbate cytosol	C6H6O6	0			
+glutcoa[m]	Glutaryl-CoA mitochondria	C26H37N7O19P3S	-5			
+cpppg3[c]	Coproporphyrinogen III cytosol	C36H40N4O8	-4			
+dhdascb[e]	Dehydroascorbate extracellular	C6H6O6	0			
+pe_hs_16_0_20_4[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+arg_L[e]	L-Arginine extracellular	C6H15N4O2	1			
+arg_L[c]	L-Arginine cytosol	C6H15N4O2	1			
+mag_hs_18_0[c]	monoacylglycerol 2 (homo sapiens C18:0) cytosol	C21H42O4	0			
+crn[c]	L-Carnitine cytosol	C7H15NO3	0			
+gmp[c]	GMP cytosol	C10H12N5O8P	-2			
+gmp[e]	GMP extracellular	C10H12N5O8P	-2			
+crn[e]	L-Carnitine extracellular	C7H15NO3	0			
+gln_L[m]	L-Glutamine mitochondria	C5H10N2O3	0			
+crn[m]	L-Carnitine mitochondria	C7H15NO3	0			
+pe_hs_18_1_18_1[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+mag_hs_18_2[c]	monoacylglycerol 2 (homo sapiens) cytosol	C3H7O2FULLR2CO2	0			
+5mthf[e]	5-Methyltetrahydrofolate extracellular	C20H24N7O6	-1			
+5mthf[c]	5-Methyltetrahydrofolate cytosol	C20H24N7O6	-1			
+pacald[c]	Phenylacetaldehyde cytosol	C8H8O	0			
+pe_hs_18_1_20_4[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+q10h2[m]	Ubiquinol-10 mitochondria	C59H92O4	0			
+3mop[m]	(S)-3-Methyl-2-oxopentanoate mitochondria	C6H9O3	-1			
+dag_hs_18_0_20_4[c]	"diacylglycerol (homo sapiens, C18:0, C20:4) cytosol"	C41H72O5	0			
+alpha_hs_18_2[c]	lysophosphatidic acid cytosol	C3H6O5PFULLRCO2	0			
+imp[c]	IMP cytosol	C10H11N4O8P	-2			
+pail4p_hs_16_0_20_4[c]	1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens) cytosol	C9H15O12P2FULLRCO2FULLR2CO2	0			
+pail34p_hs_18_1_18_2[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+pail_hs_16_0_16_0[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+dag_hs_18_2_20_4[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+creat[c]	Creatine cytosol	C4H9N3O2	0			
+5hoxindoa[c]	5-Hydroxyindoleacetate cytosol	C10H8NO3	-1			
+mi14p[c]	"1D-myo-Inositol 1,4-bisphosphate cytosol"	C6H10O12P2	-4			
+cdpdag_hs_20_4_20_4[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+glygn1[c]	"glycogen, structure 1 (glycogenin-11[1,4-Glc]) cytosol"	C66H111O56X	0			
+ficytC[m]	Ferricytochrome c mitochondria	C42H54FeN8O6S2	3			
+glygn3[c]	"glycogen, structure 3 (glycogenin-7[1,4-Glc]) cytosol"	C42H71O36X	0			
+sphs1p[c]	Sphingosine 1-phosphate cytosol	C18H37NO5P	-1			
+pail345p_hs_16_0_18_1[c]	"phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens) cytosol"	C9H13O18P4FULLRCO2FULLR2CO2	0			
+sphs1p[e]	Sphingosine 1-phosphate extracellular	C18H37NO5P	-1			
+4nph[c]	4-Nitrophenol cytosol	C6H5NO3	0			
+dag_hs_18_2_18_2[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+trypta[c]	Tryptamine cytosol	C10H13N2	1			
+asp_L[c]	L-Aspartate cytosol	C4H6NO4	-1			
+amp[m]	AMP mitochondria	C10H12N5O7P	-2			
+asp_L[e]	L-Aspartate extracellular	C4H6NO4	-1			
+thym[e]	Thymine extracellular	C5H6N2O2	0			
+air[c]	5-amino-1-(5-phospho-D-ribosyl)imidazole cytosol	C8H12N3O7P	-2			
+pail45p_hs_16_0_18_0[c]	"phosphatidylinositol 4,5-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+thym[c]	Thymine cytosol	C5H6N2O2	0			
+succ[c]	Succinate cytosol	C4H4O4	-2			
+succ[e]	Succinate extracellular	C4H4O4	-2			
+dag_hs_16_0_18_1[c]	"diacylglycerol (homo sapiens, C16:0, C18:1) cytosol"	C37H70O5	0			
+ahcys[c]	S-Adenosyl-L-homocysteine cytosol	C14H20N6O5S	0			
+succ[m]	Succinate mitochondria	C4H4O4	-2			
+id3acald[c]	Indole-3-acetaldehyde cytosol	C10H9NO	0			
+akg[c]	2-Oxoglutarate cytosol	C5H4O5	-2			
+pa_hs_18_0_20_4[c]	"phosphatidic acid (homo sapiens,  C18:0, C20:4) cytosol"	C41H71O8P	-2			
+ca2[c]	Calcium cytosol	Ca	2			
+leuktrC4[r]	Leukotriene C4 ER	C30H45N3O9S	-2			
+f26bp[c]	"D-Fructose 2,6-bisphosphate cytosol"	C6H10O12P2	-4			
+akg[m]	2-Oxoglutarate mitochondria	C5H4O5	-2			
+xylu_D[c]	D-Xylulose cytosol	C5H10O5	0			
+acac[c]	Acetoacetate cytosol	C4H5O3	-1			
+lpchol_hs_18_1[c]	lysophosphatidylcholine (homo sapiens) cytosol	C8H19NO5PFULLRCO2	0			
+pppg9[m]	Protoporphyrinogen IX mitochondria	C34H38N4O4	-2			
+arachdcrn[c]	C20:4 carnitine cytosol	C27H45NO4	0			
+pchol_hs_18_0_18_2[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+methf[c]	"5,10-Methenyltetrahydrofolate cytosol"	C20H20N7O6	-1			
+asn_L[e]	L-Asparagine extracellular	C4H8N2O3	0			
+nadph[c]	Nicotinamide adenine dinucleotide phosphate - reduced cytosol	C21H26N7O17P3	-4			
+xan[c]	Xanthine cytosol	C5H4N4O2	0			
+ocdca[e]	octadecanoate (n-C18:0) extracellular	C18H35O2	-1			
+prostgd2[c]	Prostaglandin D2 cytosol	C20H31O5	-1			
+nadph[m]	Nicotinamide adenine dinucleotide phosphate - reduced mitochondria	C21H26N7O17P3	-4			
+g3p[c]	Glyceraldehyde 3-phosphate cytosol	C3H5O6P	-2			
+sbt_D[c]	D-Sorbitol cytosol	C6H14O6	0			
+prostgd2[e]	Prostaglandin D2 extracellular	C20H31O5	-1			
+nadph[r]	Nicotinamide adenine dinucleotide phosphate - reduced ER	C21H26N7O17P3	-4			
+pchol_hs_16_0_16_0[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+4hoxpacd[c]	4-Hydroxyphenylacetaldehyde cytosol	C8H8O2	0			
+k[c]	potassium cytosol	K	1			
+ak2lgchol_hs[c]	1-alkyl 2-lysoglycerol 3-phosphocholine cytosol	C10H21O5NPFULLR	0			
+k[e]	potassium extracellular	K	1			
+10fthf7glu[c]	10-formyltetrahydrofolate-[Glu](7) cytosol	C50H57N13O25	-8			
+ps_hs_18_2_20_4[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+aicar[c]	5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide cytosol	C9H13N4O8P	-2			
+10fthf7glu[m]	10-formyltetrahydrofolate-[Glu](7) mitochondria	C50H57N13O25	-8			
+10fthf7glu[l]	10-formyltetrahydrofolate-[Glu](7) lysosome	C50H57N13O25	-8			
+ascb_L[e]	L-Ascorbate extracellular	C6H8O6	0			
+msa[m]	Malonate semialdehyde mitochondria	C3H3O3	-1			
+tsul[m]	Thiosulfate mitochondria	O3S2	-2			
+tsul[e]	Thiosulfate extracellular	O3S2	-2			
+tsul[c]	Thiosulfate cytosol	O3S2	-2			
+pa_hs_16_0_18_2[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+prostgh2[r]	Prostaglandin H2 ER	C20H31O5	-1			
+cit[m]	Citrate mitochondria	C6H5O7	-3			
+lnlccoa[c]	linoleic coenzyme A cytosol	C39H62N7O17P3S	-4			
+lnlccoa[m]	linoleic coenzyme A mitochondria	C39H62N7O17P3S	-4			
+fpram[c]	2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine cytosol	C8H15N3O8P	-1			
+2mbcoa[m]	2-Methylbutanoyl-CoA mitochondria	C26H40N7O17P3S	-4			
+cit[c]	Citrate cytosol	C6H5O7	-3			
+pchol_hs_18_1_20_4[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+ru5p_D[c]	D-Ribulose 5-phosphate cytosol	C5H9O8P	-2			
+pchol_hs_16_0_18_1[c]	"phosphatidylcholine (homo sapiens, C16:0, C18:1) cytosol"	C42H82NO8P	0			
+fdp[c]	"D-Fructose 1,6-bisphosphate cytosol"	C6H10O12P2	-4			
+dcamp[c]	"N6-(1,2-Dicarboxyethyl)-AMP cytosol"	C14H14N5O11P	-4			
+urate[x]	Urate peroxisome	C5H4N4O3	0			
+3pg[c]	3-Phospho-D-glycerate cytosol	C3H4O7P	-3			
+2maacoa[m]	2-Methyl-3-acetoacetyl-CoA mitochondria	C26H38N7O18P3S	-4			
+his_L[c]	L-Histidine cytosol	C6H9N3O2	0			
+alpha_hs_16_0[c]	lysophosphatidic acid cytosol	C3H6O5PFULLRCO2	0			
+aacoa[c]	Acetoacetyl-CoA cytosol	C25H36N7O18P3S	-4			
+3mb2coa[m]	3-Methylbut-2-enoyl-CoA mitochondria	C26H38N7O17P3S	-4			
+orn[e]	Ornithine extracellular	C5H13N2O2	1			
+amp[e]	AMP extracellular	C10H12N5O7P	-2			
+orn[c]	Ornithine cytosol	C5H13N2O2	1			
+g3pc[c]	sn-Glycero-3-phosphocholine cytosol	C8H20NO6P	0			
+ps_hs_16_0_18_1[c]	phosphatidylserine (homo sapiens) cytosol	C6H11NO6PFULLRCO2FULLR2CO2	0			
+dag_hs_18_1_20_4[c]	diacylglycerol (homo sapiens) cytosol	C3H6OFULLRCO2FULLR2CO2	0			
+orn[m]	Ornithine mitochondria	C5H13N2O2	1			
+pe_hs_18_0_18_1[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+pail34p_hs_16_0_16_0[c]	"phosphatidylinositol-3,4-bisphosphate (Homo sapiens) cytosol"	C9H14O15P3FULLRCO2FULLR2CO2	0			
+aacoa[m]	Acetoacetyl-CoA mitochondria	C25H36N7O18P3S	-4			
+pa_hs_18_0_18_1[c]	phosphatidic acid (homo sapiens) cytosol	C3H5O4PFULLRCO2FULLR2CO2	0			
+cdpdag_hs_18_0_18_0[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+2oxoadp[c]	2-Oxoadipate cytosol	C6H6O5	-2			
+aps[c]	Adenosine 5'-phosphosulfate cytosol	C10H12N5O10PS	-2			
+pchol_hs_20_4_20_4[c]	Phosphatidylcholine (homo sapiens) cytosol	C8H18NO4PFULLRCO2FULLR2CO2	0			
+2oxoadp[m]	2-Oxoadipate mitochondria	C6H6O5	-2			
+gsn[c]	Guanosine cytosol	C10H13N5O5	0			
+pail_hs_18_1_18_2[c]	phosphatidylinositol (homo sapiens) cytosol	C9H16O9PFULLRCO2FULLR2CO2	0			
+pe_hs_18_0_18_0[c]	phosphatidylethanolamine (homo sapiens) cytosol	C5H12NO4PFULLRCO2FULLR2CO2	0			
+so3[m]	Sulfite mitochondria	O3S	-2			
+argsuc[c]	N(omega)-(L-Arginino)succinate cytosol	C10H17N4O6	-1			
+cdpdag_hs_18_0_18_2[c]	CDP diacylglycerol (homo sapiens) cytosol	C12H17N3O11P2FULLRCO2FULLR2CO2	0			
+odecrn[m]	octadecenoyl carnitine mitochondria	C25H47NO4	0			
+xylu_L[c]	L-Xylulose cytosol	C5H10O5	0			
+odecrn[c]	octadecenoyl carnitine cytosol	C25H47NO4	0			
